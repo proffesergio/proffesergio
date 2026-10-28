@@ -6,7 +6,7 @@
 
   <p>⚡ Working on several vibe coding projects • 🧠 Exploring AI Agents • 📚 Research & Publication</p>
 
-  [[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://next-portfolio-ruby-nine.vercel.app)
+  [[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://billsbro.vercel.app)
   [[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossainbillal/)
   [[Email](https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=000)](mailto:bilal.hossai1@gmail.com)
 </div>
