@@ -133,7 +133,7 @@ AI attendance, fees, parent chatbot with RAG.
 
 - 🔬 **At BIDS:** Research publication formatting, DOI records, quality control
 - 🤖 **As AI Engineer:** Building vibe coding projects - AI agents for research & SMEs
-- 📚 **Learning:** System Design (inspired by Omar Faroque), Agentic Workflows, Vector DBs
+- 📚 **Learning:** System Design, Agentic Workflows, Vector DBs
 - 🌱 **Open to:** AI Engineer roles, Research-tech collabs, Freelance AI projects
 
 <p align="center">
@@ -151,5 +151,5 @@ AI attendance, fees, parent chatbot with RAG.
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <br/>
-  <i>⚡ Vibe coded with ☕ in Dhaka • Inspired by Omar Faroque's "Keep learning and sleep well"</i>
+  <i>⚡ Vibe coding ☕ in Dhaka • Inspired • Motivated • Learner </i>
 </p>
